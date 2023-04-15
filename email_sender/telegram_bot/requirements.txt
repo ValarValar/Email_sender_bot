@@ -1,0 +1,7 @@
+aiogram==2.25.1
+anyio==3.6.2
+djangorestframework==3.14.0
+httpx==0.23.3
+pytest==7.2.2
+pytest-asyncio==0.21.0
+python-dotenv==1.0.0
